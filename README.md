@@ -13,7 +13,7 @@ Este documento proporciona una guía completa para la instalación técnica y el
 - **Navegador**: Chrome, Edge o Firefox (recomendado para el scanner y QR).
 
 ### Pasos de Instalación
-1. **Preparación de Archivos**: Descomprimir el archivo `sistema_inventario_pro.zip` en la carpeta de destino.
+1. **Preparación de Archivos**: Descomprimir el archivo `sistema_inventario.zip` en la carpeta de destino.
 2. **Instalación de Dependencias**: Abrir una terminal en la carpeta y ejecutar:
    ```bash
    npm install
