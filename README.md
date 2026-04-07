@@ -1,7 +1,7 @@
 [DOCUMENTACION_CLIENTE.md](https://github.com/user-attachments/files/26553715/DOCUMENTACION_CLIENTE.md)
 # Manual de Usuario e Instalación - Sistema de Inventario
 
-Este documento proporciona una guía completa para la instalación técnica y el uso operativo del sistema **Sistema de Pro**.
+Este documento proporciona una guía completa para la instalación técnica y el uso operativo del sistema **Sistema de Inventario**.
 
 ---
 
