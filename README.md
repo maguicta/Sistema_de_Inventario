@@ -14,21 +14,22 @@ Este documento proporciona una guía completa para la instalación técnica y el
 
 ### Pasos de Instalación
 1. **Preparación de Archivos**: Descomprimir el archivo `sistema_inventario.zip` en la carpeta de destino.
-2. **Instalación de Dependencias**: Abrir una terminal en la carpeta y ejecutar:
+2. **Renombra el archivo _.env  tiene que queda .env
+3. **Instalación de Dependencias**: Abrir una terminal en la carpeta y ejecutar:
    ```bash
    npm install
    ```
-3. **Base de Datos**: 
+4. **Base de Datos**: 
    - Crear una base de datos llamada `inventario_db`.
    - Importar el archivo `database/schema.sql` para crear las tablas básicas.
    - Ejecutar el script inicializador para crear el usuario administrador por defecto:
      ```bash
      node database/init.js
      ```
-4. **Configuración del Entorno**: 
+5. **Configuración del Entorno**: 
    - 
    - Editar los datos de conexión a MySQL y el puerto del servidor.
-5. **Inicio en Windows**: 
+6. **Inicio en Windows**: 
    - Ejecutar el archivo `iniciar_sistema.bat`. Este script instalará dependencias si no existen y arrancará el servidor automáticamente.
    - El sistema estará disponible en `http://localhost:3000`.
 
