@@ -20,7 +20,7 @@ Este documento proporciona una guía completa para la instalación técnica y el
    npm install
    ```
 4. **Base de Datos**: 
-   - Crear una base de datos llamada `inventory_system`.
+   - Crear una base de datos llamada `inventario_db`.
    - Importar el archivo `database/schema.sql` para crear las tablas básicas.
    - Ejecutar el script inicializador para crear el usuario administrador por defecto:
      ```bash
